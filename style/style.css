@@ -490,6 +490,9 @@ img {
     line-height: 100%;
     vertical-align: middle;
     margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     /* margin-bottom: 60px; */
 }
 
@@ -507,13 +510,6 @@ img {
     border: 1px solid #323232;
     width: 100%;
     margin-bottom: 40px;
-}
-
-.section__boxxx {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 .main_box {
